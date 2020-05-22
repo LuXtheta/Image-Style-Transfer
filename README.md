@@ -7,9 +7,10 @@
   </center>
   
 <B><I>The repository contains implementation in</I></B>
-    1)TensorFlow 1.x
     
-    2)PyTorch 1.4
+    TensorFlow 1.x
+    
+    PyTorch 1.4
   
 
 <I>Code is available as Jupyter-Notebook and .py formats</I>
