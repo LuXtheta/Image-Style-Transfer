@@ -24,11 +24,19 @@
 <h3> Wanna one photo of yours like above ? </h3>
 
 Reach out to me :
+<center>
+  
 [Instagram](https://www.instagram.com/kanpuriyanawab/)
 
+</center>
+
+<center>
+  
 [LinkedIn](https://www.linkedin.com/in/anshuman-mishra-89b014195)
 
-[Facebook](https://www.facebook.com/profile.php?id=100027935993418)
+</center>
+
+
   
 
   
