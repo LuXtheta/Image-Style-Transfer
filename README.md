@@ -1,5 +1,5 @@
 
-## Implemented [this](https://arxiv.org/abs/1508.06576) Research Paper on Style Transfer Using Deep Neural Network </h3>
+## Implemented [this](https://arxiv.org/abs/1508.06576) Research Paper on Style Transfer Using Deep Neural Network 
 
 
 <center><B>Collage 1</B></center>
