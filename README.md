@@ -29,7 +29,6 @@ Reach out to me :
   
 [Instagram](https://www.instagram.com/kanpuriyanawab/)
 
-  
 [LinkedIn](https://www.linkedin.com/in/anshuman-mishra-89b014195)
 
 </center>
