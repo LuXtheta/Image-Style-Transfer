@@ -1,4 +1,4 @@
-## Implemented [this](https://arxiv.org/abs/1508.06576) Research Paper on Style Transfer Using Deep Neural Network
+<center><h3> Implemented [this](https://arxiv.org/abs/1508.06576) Research Paper on Style Transfer Using Deep Neural Network <h3></center>
 
 <center><B>Collage 1</B></center>
 <center><img src="src/collage1.jpeg" style="width:542px;height:837px;"></center>
@@ -29,9 +29,6 @@ Reach out to me :
   
 [Instagram](https://www.instagram.com/kanpuriyanawab/)
 
-</center>
-
-<center>
   
 [LinkedIn](https://www.linkedin.com/in/anshuman-mishra-89b014195)
 
