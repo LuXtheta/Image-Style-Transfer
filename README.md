@@ -1,8 +1,8 @@
-## Implemented [this](https://arxiv.org/abs/1508.06576) on Style Transfer Using Deep Neural Network
+## Implemented [this](https://arxiv.org/abs/1508.06576) Research Paper on Style Transfer Using Deep Neural Network
 
-
+<center>Collage 1</center>
 <img src="src/collage1.jpeg" style="width:542px;height:837px;">
-
+<center>Collage 2</center>
 <img src="src/collage2.jpeg" style="width:542px;height:837px;">
 
 <B><I>The repository contains implementation in</I></B>
