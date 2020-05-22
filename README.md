@@ -1,10 +1,11 @@
 ## Implemented [this](https://arxiv.org/abs/1508.06576) Research Paper on Style Transfer Using Deep Neural Network
 
-<center>Collage 1</center>
+<center>Collage 1
 <img src="src/collage1.jpeg" style="width:542px;height:837px;">
-<center>Collage 2</center>
+<center>Collage 2
 <img src="src/collage2.jpeg" style="width:542px;height:837px;">
-
+  </center>
+  
 <B><I>The repository contains implementation in</I></B>
   1) TensorFlow 1.x
   2) PyTorch 1.4
