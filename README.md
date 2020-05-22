@@ -1,4 +1,4 @@
-<center><h3> Implemented [this](https://arxiv.org/abs/1508.06576) Research Paper on Style Transfer Using Deep Neural Network <h3></center>
+<center><h3> Implemented [this](https://arxiv.org/abs/1508.06576) Research Paper on Style Transfer Using Deep Neural Network </h3></center>
 
 <center><B>Collage 1</B></center>
 <center><img src="src/collage1.jpeg" style="width:542px;height:837px;"></center>
@@ -25,11 +25,12 @@
 <h3> Wanna one photo of yours like above ? </h3>
 
 Reach out to me :
+
 <center>
   
 [Instagram](https://www.instagram.com/kanpuriyanawab/)
 
-[LinkedIn](https://www.linkedin.com/in/anshuman-mishra-89b014195)
+[LinkedIn](https://www.linkedin.com/in/anshuman-mishra-89b014195/)
 
 </center>
 
